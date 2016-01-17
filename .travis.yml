@@ -10,3 +10,4 @@ addons:
     - libreadline5
     - libboost-graph-dev
     - exuberant-ctags
+    - libdb-dev
