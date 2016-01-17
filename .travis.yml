@@ -3,8 +3,8 @@ script: make
 addons:
   apt:
     packages:
-    - tcl8.5
-    - tcl8.5-dev
-    - tk8.5
-    - tk8.5-dev
+    - tcl
+    - tcl-dev
+    - tk
+    - tk-dev
     - libreadline5
