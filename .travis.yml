@@ -8,5 +8,3 @@ addons:
     - tk8.5
     - tk8.5-dev
     - libreadline5
-
-
