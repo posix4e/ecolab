@@ -8,3 +8,4 @@ addons:
     - tk
     - tk-dev
     - libreadline5
+    - libboost-graph-dev
