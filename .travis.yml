@@ -1,0 +1,11 @@
+language: cpp
+script: make; cd test ; make
+addons:
+  apt:
+    packages:
+    - tcl8.5
+    - tcl8.5-dev
+    - tk8.5
+    - tk8.5-dev
+    - libreadline5
+    - libboost-graph-dev
