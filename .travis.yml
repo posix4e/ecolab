@@ -1,5 +1,5 @@
 language: cpp
-script: make; cd test ; cd make
+script: make; make install ; cd test ; cd make
 addons:
   apt:
     packages:
@@ -9,3 +9,4 @@ addons:
     - tk-dev
     - libreadline5
     - libboost-graph-dev
+    - exuberant-ctags
