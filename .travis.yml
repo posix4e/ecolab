@@ -11,3 +11,4 @@ addons:
     - libboost-graph-dev
     - exuberant-ctags
     - libdb-dev
+    - libdb++-dev
