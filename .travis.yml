@@ -1,5 +1,5 @@
 language: cpp
-script: make; make install ; cd test ; make
+script: make; make install ; cd test ; make; ls 
 addons:
   apt:
     packages:
