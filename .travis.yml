@@ -12,3 +12,5 @@ addons:
     - exuberant-ctags
     - libdb-dev
     - libdb++-dev
+    - mpd
+    - Xvfb
